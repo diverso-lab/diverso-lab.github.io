@@ -36,6 +36,10 @@ This operation returns a set of errors in a model.
 ### Error diagnosis.
 This operation returns the possible solutions for the errors present in a model
 
+# Try!
+
+You can try our framework [here](https://github.com/diverso-lab/core)
+
 # Authors
 
 - David Benavides
@@ -44,3 +48,4 @@ This operation returns the possible solutions for the errors present in a model
 - Antonio Germán Márquez
 - David Romero
 - Pablo Pazo
+
